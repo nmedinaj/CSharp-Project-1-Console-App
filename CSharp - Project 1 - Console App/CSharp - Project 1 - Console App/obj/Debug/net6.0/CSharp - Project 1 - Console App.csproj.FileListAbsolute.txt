@@ -1,0 +1,15 @@
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\bin\Debug\net6.0\CSharp - Project 1 - Console App.exe
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\bin\Debug\net6.0\CSharp - Project 1 - Console App.deps.json
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\bin\Debug\net6.0\CSharp - Project 1 - Console App.runtimeconfig.json
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\bin\Debug\net6.0\CSharp - Project 1 - Console App.dll
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\bin\Debug\net6.0\CSharp - Project 1 - Console App.pdb
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\CSharp - Project 1 - Console App.csproj.AssemblyReference.cache
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\CSharp - Project 1 - Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\CSharp - Project 1 - Console App.AssemblyInfoInputs.cache
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\CSharp - Project 1 - Console App.AssemblyInfo.cs
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\CSharp - Project 1 - Console App.csproj.CoreCompileInputs.cache
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\CSharp - Project 1 - Console App.dll
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\refint\CSharp - Project 1 - Console App.dll
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\CSharp - Project 1 - Console App.pdb
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\CSharp - Project 1 - Console App.genruntimeconfig.cache
+C:\Users\Norianna\source\repos\CSharp - Project 1 - Console App\CSharp - Project 1 - Console App\obj\Debug\net6.0\ref\CSharp - Project 1 - Console App.dll
